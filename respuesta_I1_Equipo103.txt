@@ -3,3 +3,17 @@ Martinez Saez Patricia
 Franco Rodriguez Cristiano 
 
 
+Alfa: (Ortu Dan)
+
+a) Si, logré ver los archivos que subían Beta y Gamma al repositorio en GitHub.
+
+b) Si, yo agregué un par de archivos de prueba y mis compañeros los veían. 
+
+Beta: Patricia Martinez
+
+c) c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si, después de hacer git pull.
+
+d-¿De qué forma se comunicaron ustedes?
+Por discord.
+
