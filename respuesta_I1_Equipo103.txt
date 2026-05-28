@@ -5,15 +5,23 @@ Franco Rodriguez Cristiano
 
 Alfa: (Ortu Dan)
 
-a) Si, logré ver los archivos que subían Beta y Gamma al repositorio en GitHub.
+a)¿ALFA ve los datos que cargaron los demás en su repositorio?
+Si, logré ver los archivos que subían Beta y Gamma al repositorio en GitHub.
 
-b) Si, yo agregué un par de archivos de prueba y mis compañeros los veían. 
+b)¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, yo agregué un par de archivos de prueba y mis compañeros los veían. 
 
 Beta: Patricia Martinez
 
-c) c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+c)¿Si BETA agrega un archivo los demás integrantes lo ven?
 Si, después de hacer git pull.
 
-d-¿De qué forma se comunicaron ustedes?
+d)¿De qué forma se comunicaron ustedes?
 Por discord.
+
+Gamma: (Franco Rodriguez Cristiano)
+
+e)¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Con los issues, asignando a los integrantes cada consigna y que quede ordenado. Tambien con git pull para 
+actualizar el trabajo a medida que avanzamos. 
 
