@@ -2,3 +2,9 @@ Ortu Dan
 Rodriguez Cristiano Franco
 Martinez Saez Patricia
 
+Alfa: (Ortu Dan)
+
+a) Si, logré ver los archivos que subían Beta y Gamma al repositorio en GitHub.
+
+b) Si, yo agregué un par de archivos de prueba y mis compañeros los veían. 
+
